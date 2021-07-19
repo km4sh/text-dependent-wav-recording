@@ -1,0 +1,50 @@
+sample_000|  They were talking loudly. I got very angry.
+sample_001|  She has been helping her husband for thirty years now.
+sample_002|  It is disturbing to think that a dangerous wild animal is still at large in the quiet countryside.
+sample_003|  for the descriptions given by people who claimed to have seen the puma were extraordinarily similar.
+sample_004|  he saw two thieves rush out of a shop and run towards a waiting car.
+sample_005|  It was my aunt Lucy. I've just arrived by train, she said. I'm coming to see you.
+sample_006|  it lost to become the pillar of the dream.
+sample_007|  I got up early and bought thirty-seven cards.
+sample_008|  experts from the Zoo felt obliged to investigate,
+sample_009|  What are you doing? she asked.
+sample_010|  However, as the evidence began to accumulate,
+sample_011|  I turned round again. I can not hear a word! I said angrily.
+sample_012|  I asked him to lend me twenty pounds.
+sample_013|  They can be friendly and affectionate towards humans, but they lead mysterious lives of their own as well.
+sample_014|  As I soon learnt, he was English himself!
+sample_015|  The big clock which used to strike the hours day a
+sample_016|  They did not pay any attention.
+sample_017|  and night gathering and threshing this year's crop before the September rains.
+sample_018|  Harrison had thought of everything except the weather.
+sample_019|  The most surprising thing about it, however,
+sample_020|  The plane was late and the detectives were waiting at the airport all morning.
+sample_021|  When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London,
+sample_022|  Thirteen is not as good as one, but it's better than nothing.
+sample_023|  When the plane arrived, some of the detectives were waiting inside the main building
+sample_024|  but he has never managed to get enough money to have the church clock repaired.
+sample_025|  because embrace of the two sides can not see each other forever.
+sample_026|  it will strike thirteen times and there's nothing I can do about it.
+sample_027|  All these cats had one experience in common: they had fallen off high buildings,
+sample_028|  The dream he had had for so many years ended there.
+sample_029|  They were expecting a valuable parcel of diamonds from South Africa.
+sample_030|  the clock was striking the hours!
+sample_031|  and a businessman on a fishing trip saw the puma up a tree.
+sample_032|  Big Ben takes its name from sir Benjamin Hall
+sample_033|  It immediately ran away when she saw it,
+sample_034|  It was Sunday. I never get up early on Sundays.
+sample_035|  I sometimes stay in bed until lunchtime.
+sample_036|  A few hours earlier, someone had told the police that thieves would try to steal the diamonds.
+sample_037|  One of them was carrying a bag full of money.
+sample_038|  Was the vicar pleased that the clock was striking? Why?
+sample_039|  The one with the money got such a fright that he dropped the bag.
+sample_040|  When he was driving along Catford Street recently,
+sample_041|  He is finding his new work far more exciting.
+sample_042|  This is a private conversation!
+sample_043|  He had often dreamed of retiring in England and had planned to settle down in the country.
+sample_044|  The play was very interesting. I did not enjoy it.
+sample_045|  Wherever it went, it left behind it a trail of dead deer and small animals like rabbits.
+sample_046|  Pumas are large, cat-like animals which are found in America.
+sample_047|  It was dark outside. What a day! I thought.
+sample_048|  Where must the puma have come from?
+sample_049|  the famous clock which can be heard all over the world on the B.B.C.
